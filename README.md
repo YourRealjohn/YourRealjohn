@@ -12,6 +12,7 @@ Tagalog — it's my native language
 
 Bahasa Indonesia — many of my friends are from Indonesia, and some aren’t fluent in English. I also play on Asia servers, so I meet a lot of Indo players
 
+Am i genius? not really Just a lazy guy who always at home
 
 I help others on Scriptblox, dominate Dead Rails, and I'm already planning my future as a Special Forces operator—while still enjoying the world of scripting. 
 
