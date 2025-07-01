@@ -1,9 +1,18 @@
 Chris: The Teen Scripter of Roblox Nation 🇵🇭
 
-I'm Chris, a 13-year-old Lua scripter from the Philippines. I learned scripting in just 2 years, starting from modded games to making full custom GUIs and exploits—on mobile! 💻📱
+I'm Chris, a 13-year-old Lua scripter from the Philippines. I learned scripting in just 2 years—starting from modded games to creating full custom GUIs and exploits, all on mobile! 💻📱
 
-I use RedzLib because I'm a big fan Redzhub this is also in courage me to make script. I keep my scripts clean, short, and always say: "No prints, full script only." 🔥
+I'm a big fan of RedzHub, and using RedzLib inspired me to start scripting. I speak multiple languages:
 
-I'm helping others in Scriptblox, dominating Dead Rails, and already planning my future as a Special Forces while still enjoying scripting.
+Japanese — because I'm a big fan of anime and learned it slowly by watching a lot of shows
+
+English — so I can communicate with players around the world in Roblox
+
+Tagalog — it's my native language
+
+Bahasa Indonesia — many of my friends are from Indonesia, and some aren’t fluent in English. I also play on Asia servers, so I meet a lot of Indo players
+
+
+I help others on Scriptblox, dominate Dead Rails, and I'm already planning my future as a Special Forces operator—while still enjoying the world of scripting. 
 
 I'm not just making scripts—I'm building a legacy.
